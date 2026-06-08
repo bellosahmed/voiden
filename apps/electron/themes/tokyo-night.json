@@ -12,6 +12,7 @@
     "--fg-secondary": "#565f89",
     "--border": "#1d1e2a",
     "--selection": "#283457",
+    "--selection-bg": "#3d4f7c",
     "--hover": "#ffffff0a",
 
     "_section_semantic": "=== SEMANTIC COLORS (13) ===",
@@ -68,6 +69,12 @@
     "--variable-faker-bg": "rgba(125, 207, 255, 0.15)",
     "--variable-faker-fg": "#7dcfff",
     "--faker": "#7dcfff",
-    "--faker-bg": "rgba(125, 207, 255, 0.15)"
+    "--faker-bg": "rgba(125, 207, 255, 0.15)",
+
+    "_section_buttons": "=== BUTTON COLORS (4) ===",
+    "--button-primary-bg": "#7aa2f7",
+    "--button-primary-hover": "#8fb4f9",
+    "--button-danger-bg": "#f7768e",
+    "--button-danger-hover": "#f98ca0"
   }
 }
